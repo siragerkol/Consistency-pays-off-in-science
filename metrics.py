@@ -1,6 +1,10 @@
 import numpy as np
 
-def E_index(c): # c: a list of citations received for each publication
+def E_index(c):
+	'''
+	function for calculating E-index
+	c: list of citations received for each publication
+	'''
 	N = len(c)
 	c = np.array(c[c!=0])
 	q = c / sum(c)
@@ -8,7 +12,12 @@ def E_index(c): # c: a list of citations received for each publication
 	return (E)
 
 
-def citation_moment(c, alpha):
+def citation_moment(c, alpha=0.3):
+	'''
+	function for calculating citation moment (M_alpha)
+	c: list of citations received for each publication
+	alpha: parameter for modulating the weight of citation distribution, should be alpha >= 0
+	'''
 	c = np.array(c)
 	M_alpha = np.mean(c**alpha)
 	return(M_alpha)
