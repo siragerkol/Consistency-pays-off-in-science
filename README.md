@@ -2,13 +2,17 @@
 
 This is a repository to accompany the paper 'Consistency pays off in science' by Şirag Erkol, Satyaki Sikdar, Filippo Radicchi, and Santo Fortunato.
 
+
 ## Citation Moment and E-index
 
 We propose two measures for identifying excellence in science:
 - Citation moment $M_\alpha$
 - E-index
 
+
 ### Citation moment $M_\alpha$
-A parametric
+
+A parametric measure that can potentially reward different types of publication portfolios $\mathcal P$.  with evenly or unevenly distributed citations.
+
 
 ### E-index
