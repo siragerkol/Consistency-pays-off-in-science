@@ -18,3 +18,7 @@ $$M_\alpha\left(\mathcal P\right) = \frac{1}{N} \sum_{i=1}^N c_i^{\alpha}$$
 
 
 ### E-index
+
+A parameter-free measure sensitive to the distribution of citations, favoring citations distributed equally among papers.
+
+$$E\left(\mathcal P\right) = -\frac{1}{N} \sum_{i=1}^N c_i log\frac{c_i}{C_tot}$$
