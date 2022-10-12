@@ -14,9 +14,7 @@ We propose two measures for identifying excellence in science:
 
 A parametric measure that can potentially reward different types of publication portfolios $\mathcal P$ depending on the value of the parameter $\alpha$.
 
-$$
-M_\alpha\left(\mathcal P)
-$$
+$$M_\alpha\left(\mathcal P\right)$$
 
 
 ### E-index
