@@ -1,7 +1,7 @@
 import numpy as np
 
 '''
-c: list of citations received for each publication
+c: list of citations for each publication
 '''
 
 def E_index(c):
@@ -51,3 +51,14 @@ def g_index(c):
         if c[i] < i**2:
             return(i)
     return(i+1)
+
+
+def q_index(c, mu=0):
+	'''
+	function for calculating q-index
+	mu: a parameter to modulate the range of q-index values
+	'''
+    c = np.array(c)
+    c = c[c!=0]
+    Q = np.exp(np.mean(np.log(c)) - mu)
+    return(Q)
