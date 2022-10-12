@@ -6,7 +6,7 @@ This is a repository to accompany the paper 'Consistency pays off in science' by
 ## Citation Moment and E-index
 
 We propose two measures for identifying excellence in science:
-- Citation moment ($\left(M_\alpha\right)$)
+- Citation moment $\left(M_\alpha\right)$
 - E-index
 
 
