@@ -50,7 +50,6 @@ def g_index(c):
 	for i in range(len(c)):
 	    if c[i] < i**2:
 	        return(i)
-
 	return(i+1)
 
 
