@@ -2,7 +2,7 @@
 
 This repository contains the code for
 - Ş. Erkol, S. Sikdar, F. Radicchi, and S. Fortunato, Consistency pays off in science.
-- [arXiv preprint]()
+- [arXiv preprint](https://github.com/siragerkol/Consistency-pays-off-in-science)
 
 ## Citation Moment and E-index
 
