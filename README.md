@@ -12,7 +12,10 @@ We propose two measures for identifying excellence in science:
 
 ### Citation moment $M_\alpha$
 
-A parametric measure that can potentially reward different types of publication portfolios $\mathcal P$.  with evenly or unevenly distributed citations.
+A parametric measure that can potentially reward different types of publication portfolios $\mathcal P$ depending on the value of the parameter $\alpha$.
+$$
+M_\alpha(\mathcal P)
+$$
 
 
 ### E-index
