@@ -33,8 +33,21 @@ def h_index(c):
 	function for calculating h-index
 	'''
     c = np.array(c)
-    paper_ids = np.arange(1, c.shape[0] + 1)
+    ids = np.arange(1, c.shape[0] + 1)
     c[::-1].sort()
-    H = np.max(np.minimum(c, paper_ids))
+    H = np.max(np.minimum(c, ids))
 
     return(H)
+
+
+def g_index(c):
+	'''
+	function for calculating g-index
+	'''
+    c=np.array(c)
+    c[::-1].sort()
+    c=np.cumsum(c)
+    for i in range(len(c)):
+        if c[i] < i**2:
+            return(i)
+    return(i+1)
