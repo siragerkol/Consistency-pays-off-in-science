@@ -23,6 +23,8 @@ A parameter-free measure sensitive to the distribution of citations, favoring ci
 
 $$E\left(\mathcal P\right) = -\frac{1}{N} \sum_{i=1}^N c_i log\frac{c_i}{C_{tot}}$$
 
+This measure is the product of average citations ($C_avg$) and Shannon entropy of the citation distribution.
+
 
 ### Symbols
 
