@@ -26,7 +26,7 @@ This measure is the product of average citations $\left(C_{avg}\right)$ and Shan
 
 ## Other measures
 
-The repository includes functions for calculating some other measures, such as H-index [](), G-index [](), and Q-index [(Sinatra et al.)](https://www.science.org/doi/full/10.1126/science.aaf5239).
+The repository includes functions for calculating some other measures, such as H-index [](), G-index [](), and Q-index ([Sinatra et al.)])(https://www.science.org/doi/full/10.1126/science.aaf5239).
 
 
 ### Symbols
