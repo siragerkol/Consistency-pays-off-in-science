@@ -31,7 +31,8 @@ This measure is the product of average citations $\left(C_{avg}\right)$ and Shan
 - $c_i$: citations received by publication $i$
 - $\mathcal P$: publication portfolio of a scientist, $\mathcal P = \\{c_1, c_2, ..., c_N \\}$
 - $N = |\mathcal P|$
-- $$\sum_i^N$$
+- $C_{tot} = \sum_i c_i$
+- 
 
 
-$C_{tot} = \sum_{i=1}^N c_i$
+
