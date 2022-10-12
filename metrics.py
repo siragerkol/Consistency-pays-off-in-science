@@ -15,7 +15,7 @@ def E_index(c):
 	E = -sum(c * np.log(q)) / N 
 
 	return(E)
-
+	
 
 def citation_moment(c, alpha=0.3):
 	'''
