@@ -1,6 +1,8 @@
 # Consistency pays off in science
 
-This is a repository to accompany the paper 'Consistency pays off in science' by Şirag Erkol, Satyaki Sikdar, Filippo Radicchi, and Santo Fortunato.
+This repository contains the code for
+- Ş. Erkol, S. Sikdar, F. Radicchi, and S. Fortunato, Consistency pays off in science.
+- [arXiv preprint]()
 
 ## Citation Moment and E-index
 
