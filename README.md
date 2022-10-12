@@ -29,4 +29,4 @@ $$E\left(\mathcal P\right) = -\frac{1}{N} \sum_{i=1}^N c_i log\frac{c_i}{C_tot}$
 - $c_i$: citations received by publication $i$
 - $\mathcal P$: publication portfolio of a scientist, $\mathcal P = \\{c_1, c_2, ..., c_N \\}$
 - $N = |\mathcal P|$
-- $C_tot = \sum_{i=1}^N c_i
+- $C_tot = \sum_{i=1}^N c_i$
