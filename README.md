@@ -9,7 +9,6 @@ We propose two measures for identifying excellence in science:
 - E-index
 
 ### Citation moment $M_\alpha$
-
 A parametric
 
 ### E-index
