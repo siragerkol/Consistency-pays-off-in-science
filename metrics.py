@@ -33,7 +33,7 @@ def h_index(c):
 	function for calculating h-index
 	'''
     c = np.array(c)
-    paper_ids = np.arange(1, len(c)+1)
+    paper_ids = np.arange(1, c.shape[0] + 1)
     c[::-1].sort()
     H = np.max(np.minimum(c, paper_ids))
 
