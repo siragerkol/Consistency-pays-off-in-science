@@ -4,6 +4,10 @@ This repository contains the code for
 - Ş. Erkol, S. Sikdar, F. Radicchi, and S. Fortunato, Consistency pays off in science.
 - [arXiv preprint](https://github.com/siragerkol/Consistency-pays-off-in-science)
 
+## Classification
+
+The notebook [`classification.ipynb`](https://github.com/siragerkol/Consistency-pays-off-in-science/blob/main/classification.ipynb) can be used to replicate the full portfolio classification results for chemistry.
+
 ## Citation Moment and E-index
 
 We propose two measures for identifying excellence in science:
