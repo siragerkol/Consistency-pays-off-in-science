@@ -48,7 +48,7 @@ def g_index(c):
     c[::-1].sort()
     c=np.cumsum(c)
     for i in range(len(c)):
-        if c[i] < i**2:
+        if c[i] < (i+1)**2:
             return(i)
     return(i+1)
 
