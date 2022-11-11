@@ -1,7 +1,6 @@
 # Consistency pays off in science
 
-This repository contains the code for
-- Ş. Erkol, S. Sikdar, F. Radicchi, and S. Fortunato, Consistency pays off in science.
+This repository contains the code for *Consistency pays off in science* (2022), Ş. Erkol, S. Sikdar, F. Radicchi, and S. Fortunato.
 - [arXiv preprint](https://arxiv.org/abs/2210.08440)
 - [Website](https://e-index.net/)
 
