@@ -44,3 +44,7 @@ This measure is the product of average citations $\left(C_{avg}\right)$ and Shan
 ## Other measures
 
 The repository includes functions for calculating some other measures, such as H-index [(Hirsch)](https://www.pnas.org/doi/abs/10.1073/pnas.0507655102), G-index [(Egghe)](https://link.springer.com/article/10.1007/s11192-006-0144-7), and Q-index [(Sinatra et al.)](https://www.science.org/doi/full/10.1126/science.aaf5239).
+
+## E-index portal
+
+We have created the website [e-index.net](https://e-index.net/)! You can use the website to search for scientists and see their citation measures, including E-index. You can also compare the measures of two different scientists, and see how they rank in their field. We use [OpenAlex](https://docs.openalex.org/) API to fetch the portfolios of scientists. 
