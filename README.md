@@ -1,6 +1,7 @@
 # Consistency pays off in science
 
-This repository contains the code for *Consistency pays off in science* (2022), Ş. Erkol, S. Sikdar, F. Radicchi, and S. Fortunato.
+This repository contains the code for *Consistency pays off in science* (2023), Ş. Erkol, S. Sikdar, F. Radicchi, and S. Fortunato. Quantitative Science Studies.
+- [Paper](https://direct.mit.edu/qss/article/4/2/491/115369/Consistency-pays-off-in-science)
 - [arXiv preprint](https://arxiv.org/abs/2210.08440)
 - [Website](https://e-index.net/)
 
