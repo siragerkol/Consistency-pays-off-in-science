@@ -7,7 +7,7 @@ This repository contains the code for *Consistency pays off in science* (2023), 
 
 ## Classification
 
-The notebook [`classification.ipynb`](https://github.com/siragerkol/Consistency-pays-off-in-science/blob/main/classification.ipynb) can be used to replicate the full portfolio classification results for chemistry.
+The notebook [`classification.ipynb`](https://github.com/siragerkol/Consistency-pays-off-in-science/blob/main/classification.ipynb) can be used to replicate the full portfolio classification results for Chemistry.
 
 ## Citation Moment and E-index
 
