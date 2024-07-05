@@ -49,4 +49,4 @@ The repository includes functions for calculating some other measures, such as H
 
 ## E-index portal
 
-We have created the portal [e-index.net](https://e-index.net/)! You can use the website to search for [scientists](https://e-index.net/author) and see their citation measures, including E-index. You can [compare](https://e-index.net/compare) the measures of two different scientists, and see how they rank in their field. You can also check the [hall of fame](https://e-index.net/hof/) in each field for various citation measures. We use [OpenAlex](https://docs.openalex.org/) API to fetch the portfolios of scientists. 
+We have created the portal [e-index.net](https://e-index.net/)! You can use the website to search for [scientists](https://e-index.net/author) and see their citation measures, including E-index. You can [compare](https://e-index.net/compare) the measures of two different scientists, and see how they rank in their field. You can also check the [hall of fame](https://e-index.net/openalex/hof/) in each field for various citation measures. We use [OpenAlex](https://docs.openalex.org/) API to fetch the portfolios of scientists. 
